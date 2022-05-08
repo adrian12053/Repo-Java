@@ -7,9 +7,9 @@ public class Main01 {
         int nr1 = 3;
         int nr2 = 7;
         if (nr1 > nr2) {
-            System.out.println("ZLE");
+            System.out.println("Wieksza liczba to" + nr1);
         } else {
-            System.out.println("Wieksza liczba to 7");
+            System.out.println("Wieksza liczba to" + nr2);
         }
         }
     }

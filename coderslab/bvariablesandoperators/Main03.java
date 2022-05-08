@@ -9,5 +9,4 @@ public class Main03 {
 
 		System.out.println(result);
 	}
-
 }
